@@ -1,1 +1,2 @@
 # issues
+- everything about programming
